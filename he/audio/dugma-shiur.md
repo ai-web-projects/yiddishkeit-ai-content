@@ -1,9 +1,9 @@
 ---
 title: "שיעור לדוגמה"
-description: "קובץ שמע לדוגמה להדגמת נגן ואפשרות הורדה - יוחלף בקובץ אמיתי מ-R2."
+description: "קובץ שמע לדוגמה להדגמת נגן ואפשרות הורדה."
 date: 2026-08-01
 locale: he
-mediaUrl: "https://www.w3schools.com/html/horse.mp3"
+mediaUrl: "https://raw.githubusercontent.com/ai-web-projects/yiddishkeit-ai-content/master/he/audio/media/dugma-shiur.mp3"
 duration: "0:14"
 downloadable: true
 ---

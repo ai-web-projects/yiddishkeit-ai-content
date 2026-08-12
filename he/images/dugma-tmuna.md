@@ -1,9 +1,9 @@
 ---
 title: "תמונה לדוגמה"
-description: "תמונה לדוגמה - יוחלף בתמונה אמיתית מ-R2."
+description: "תמונה לדוגמה."
 date: 2026-08-01
 locale: he
-imageUrl: "https://picsum.photos/seed/yiddishkeit-ai/800/600"
+imageUrl: "https://raw.githubusercontent.com/ai-web-projects/yiddishkeit-ai-content/master/he/images/media/dugma-tmuna.jpg"
 ---
 
 תיאור נוסף של התמונה יכול להופיע כאן.

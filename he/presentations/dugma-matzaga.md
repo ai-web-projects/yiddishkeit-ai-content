@@ -1,9 +1,9 @@
 ---
 title: "מצגת לדוגמה"
-description: "קובץ מצגת/PDF לדוגמה להדגמת תצוגה והורדה - יוחלף בקובץ אמיתי מ-R2."
+description: "קובץ מצגת/PDF לדוגמה להדגמת תצוגה והורדה."
 date: 2026-08-01
 locale: he
-mediaUrl: "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+mediaUrl: "https://raw.githubusercontent.com/ai-web-projects/yiddishkeit-ai-content/master/he/presentations/media/dugma-matzaga.pdf"
 downloadable: true
 ---
 
